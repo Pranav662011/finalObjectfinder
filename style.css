@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 10px 5px 5px rgb(204, 238, 9);
+    border-color: 2px 2px 2px rgb(230, 22, 22);
+    margin-top: 100px;
+}
+
+label{
+    color: rgb(190, 245, 9);
+    border-radius: 20px;
+    font-size: 30px;
+}
+.heading{
+    font-size: 40px;
+}
+
+#input{
+    font-size: 25px;
+}
+
+#start{
+    font-size: 30px;
+}
